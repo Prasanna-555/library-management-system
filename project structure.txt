@@ -1,0 +1,4 @@
+library-management-system/
+├── library.py        # Main code
+├── README.md         # Project description and usage
+└── requirements.txt  # (Optional) Python dependencies

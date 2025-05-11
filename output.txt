@@ -1,0 +1,68 @@
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 1
+Enter book name: java textbook
+Book "java textbook" added to the library.
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 2
+Available Books:
+ - java textbook
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 3
+Enter book name to borrow: python textbook
+Sorry, "python textbook" is not available.
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 4
+Enter book name to return: java textbook
+You do not have "java textbook" to return.
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 3
+Enter book name to borrow: java textbook
+You have borrowed "java textbook".
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 4
+Enter book name to return: java textbook
+Thank you for returning "java textbook".
+
+📚 Library Menu:
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 5
+Exiting the Library System. Goodbye! 👋
